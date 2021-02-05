@@ -31,7 +31,7 @@ public class Declarations {
 		i2[0] = 1;
 		i2[1] = 2;
 		i2[2] = 3;
-
+		i2[5] = 6;
 	}
 
 }
