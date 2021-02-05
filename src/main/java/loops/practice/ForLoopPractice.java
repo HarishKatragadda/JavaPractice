@@ -3,11 +3,9 @@ package loops.practice;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.Test;
 
 public class ForLoopPractice {
 
-	@Test
 	public void loopArray() {
 		String[] strArray = new String[] { "A", "B", "C" };
 
@@ -22,7 +20,7 @@ public class ForLoopPractice {
 		}
 	}
 
-	@Test
+
 	public void loopList() {
 		List<String> list = new ArrayList<>();
 		list.add("A");

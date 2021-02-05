@@ -1,10 +1,8 @@
 package core.java;
 
-import org.junit.Test;
 
 public class Declarations {
 
-	@Test
 	public void declaration() {
 		// primitives
 		int i = 10;
@@ -31,6 +29,10 @@ public class Declarations {
 		i2[0] = 1;
 		i2[1] = 2;
 		i2[2] = 3;
+		//added in Developer branch
+		i2[3] = 4;
+		i2[4] = 5;
+
 
 	}
 
