@@ -33,6 +33,8 @@ public class Declarations {
 		i2[3] = 4;
 		i2[4] = 5;
 
+		System.out.println("H");
+
 
 	}
 
